@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="line">|</string>
+    <string name="all_accounts">All Accounts</string>
+    <string name="b_a_n_k_s">B A N K S</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+</resources>
